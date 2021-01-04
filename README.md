@@ -1,2 +1,3 @@
 # Flights_Fare-Prediction-machine-learning-
 so, I was given the information of flights, and i had to predict the price accordingly... 
+get the train and test data from this link:  https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh 
